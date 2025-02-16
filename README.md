@@ -1,4 +1,4 @@
-# GPT-3.5 Voice Assistant for Android with QPython and GPT
+# GPT-3.5 Voice Assistant for Android with QPython
 
 ## Description
 
