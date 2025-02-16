@@ -15,7 +15,7 @@ This project is a voice assistant based on **GPT-3.5** running on **QPython** on
 Before running this project, you need the following:
 
 - **QPython** (Download from the Play Store or official [QPython website](https://www.qpython.com/)).
-- **Access to the GPT API**: An API key from OpenAI (or PGPT) to access GPT-3.5.
+- **Access to the PGPT API**: [Get free API Key](https://www.youtube.com/watch?v=LL4DE98h2uQ). 
 - **`androidhelper` module** to interact with the Android system (text-to-speech, speech recognition).
 - A **working internet connection** to interact with the GPT API.
 
@@ -50,7 +50,7 @@ Once the script is ready and configured, you can run it in QPython and start int
 ## Troubleshooting
 
 - **Voice recognition error**: Ensure your microphone is working correctly and that the necessary permissions are granted to QPython.
-- **GPT API connection error**: Check your internet connection and the validity of your OpenAI API key.
+- **PGPT API connection error**: Check your internet connection and the validity of your OpenAI API key.
 
 ## Contribution
 
