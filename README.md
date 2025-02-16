@@ -63,6 +63,5 @@ If you wish to contribute to this project, you can:
 
 This project is licensed under the **MIT License**.
 
----
-
-Thank you for using the **GPT-3.5 Voice Assistant**!
+## Author
+[Kurama-90](https://github.com/Kurama-90)
