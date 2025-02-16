@@ -1,9 +1,11 @@
+# Kurama-90 (https://github.com/Kurama-90)
+
 import androidhelper  # Pour les fonctionnalités Android
 from apigptcloud import openai  # Pour appeler l'API GPT
 import time  # Pour la gestion d'inactivité
 
 # Configuration de l'API GPT
-openai.api_key = "VOTRE API KEY"
+openai.api_key = "your API KEY"
 openai.api_base = "https://openai.pgpt.cloud/v1"
 
 # Initialisation des messages avec une instruction pour toujours répondre en français
