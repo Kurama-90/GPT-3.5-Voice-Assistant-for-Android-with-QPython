@@ -15,7 +15,7 @@ This project is a voice assistant based on **GPT-3.5** running on **QPython** on
 Before running this project, you need the following:
 
 - **QPython** (Download from the Play Store or official [QPython website](https://www.qpython.com/)).
-- **Access to the PGPT API**: [Get free API Key](https://www.youtube.com/watch?v=LL4DE98h2uQ). 
+- **Access to the GPT API**: [Get free API Key](https://www.youtube.com/watch?v=LL4DE98h2uQ). 
 - **`androidhelper` module** to interact with the Android system (text-to-speech, speech recognition).
 - A **working internet connection** to interact with the GPT API.
 
@@ -28,13 +28,13 @@ Before running this project, you need the following:
 ### Step 2: Install Necessary Modules
 In QPython, you need to ensure that the following modules are installed:
 - `androidhelper` : For speech synthesis and speech recognition.
-- `openai` : To interact with the GPT API.
+- `APIGPT` : To interact with the GPT API.
 
 Install these libraries through QPython’s terminal or package manager.
 
 ### Step 3: Create a File for the Project
 1. Create a new Python file in QPython and copy the assistant’s source code (or the provided code above).
-2. Add your OpenAI API key in the code.
+2. Add your GPT API key in the code.
 
 ### Step 4: Run the Script
 Once the script is ready and configured, you can run it in QPython and start interacting with the voice assistant. You can either type your question or say "parler" to use the voice recognition.
@@ -50,7 +50,7 @@ Once the script is ready and configured, you can run it in QPython and start int
 ## Troubleshooting
 
 - **Voice recognition error**: Ensure your microphone is working correctly and that the necessary permissions are granted to QPython.
-- **PGPT API connection error**: Check your internet connection and the validity of your OpenAI API key.
+- **GPT API connection error**: Check your internet connection and the validity of your OpenAI API key.
 
 ## Contribution
 
